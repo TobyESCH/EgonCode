@@ -1,0 +1,17 @@
+out/
+.egoncode/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.claude/
+.codex/
+.cursor/
+.github/copilot-instructions.md
+*.class
+*.jar
