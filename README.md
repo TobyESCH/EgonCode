@@ -137,3 +137,12 @@ java -cp out dev.egoncode.SmokeTest
 The smoke test uses a loopback mock Responses server and does not spend API
 usage. See the [OpenAI sign-in documentation](https://developers.openai.com/siwc/token-sharing-open-source)
 for the current subscription request contract.
+
+## License
+
+EgonCode's source code is MIT licensed. The rabbit GIFs in
+`src/main/resources/` are modified assets from
+[Kanmandev's Bunny animated pixel art](https://kanmandev.itch.io/bunny-animated).
+They remain under the creator's asset license and are not covered by the MIT
+license. That license permits distribution as part of a finished project but
+does not permit sharing the assets as a standalone pack.
